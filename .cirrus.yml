@@ -1,0 +1,18 @@
+env:
+    CIRRUS_CLONE_DEPTH: 1
+    CIRRUS_WORKING_DIR: "/tmp/ci"
+    CIRRUS_SHELL: bash
+    
+task:
+    name: lavender
+    timeout_in: 2h
+    container:
+      image: aarunalr/aosp-build
+      cpu: 8
+      memory: 32g
+    
+    setup_script:
+      - curl -Ls https://raw.githubusercontent.com/akhilnarang/scripts/master/setup/android_build_env.sh | bash
+      - curl -Ls https://raw.githubusercontent.com/ShivamKumarJha/android_tools/master/setup.sh | bash
+    sync_script:
+      - bash dump.sh
