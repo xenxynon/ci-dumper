@@ -19,5 +19,4 @@ task:
       - bash phoenix_firmware_dumper/setup.sh
 
     dump_script:
-      - wget https://raw.githubusercontent.com/DroidDumps/phoenix_firmware_dumper/main/dumper.sh
       - bash dump.sh
