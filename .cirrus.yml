@@ -15,8 +15,9 @@ task:
       memory: 32g
     
     setup_script:
-      - curl -Ls https://raw.githubusercontent.com/akhilnarang/scripts/master/setup/android_build_env.sh | bash
-      - curl -Ls https://raw.githubusercontent.com/DroidDumps/phoenix_firmware_dumper/main/setup.sh | bash
+      - git clone https://github.com/XenStuff/phoenix_firmware_dumper 
+      - bash setup.sh
+
     dump_script:
       - wget https://raw.githubusercontent.com/DroidDumps/phoenix_firmware_dumper/main/dumper.sh
       - bash dump.sh
