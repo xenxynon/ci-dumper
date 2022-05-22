@@ -16,7 +16,7 @@ task:
     
     setup_script:
       - git clone https://github.com/XenStuff/phoenix_firmware_dumper 
-      - bash setup.sh
+      - bash phoenix_firmware_dumper/setup.sh
 
     dump_script:
       - wget https://raw.githubusercontent.com/DroidDumps/phoenix_firmware_dumper/main/dumper.sh
