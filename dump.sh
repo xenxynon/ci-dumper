@@ -1,8 +1,8 @@
 # example 
 # try again
 apt install wget
-cd p*
 cp .github_orgname .github_token .tg_chat .tg_token phoenix_firmware_dumper 
+cd p*
 chmod +x d*.sh
 
 # git config
