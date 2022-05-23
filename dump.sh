@@ -2,10 +2,7 @@
 # try again
 apt install wget
 cd p*
-wget https://raw.githubusercontent.com/xenxynon/ci-dumper/main/.github_orgname
-wget https://raw.githubusercontent.com/xenxynon/ci-dumper/main/.github_token
-wget https://raw.githubusercontent.com/xenxynon/ci-dumper/main/.tg_chat
-wget https://raw.githubusercontent.com/xenxynon/ci-dumper/main/.tg_token
+cp .github_orgname .github_token .tg_chat .tg_token phoenix_firmware_dumper 
 chmod +x d*.sh
 
 # git config
