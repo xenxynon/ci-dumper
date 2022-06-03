@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://bigota.d.miui.com/V13.0.1.0.SKKINXM/haydn_in_global_images_V13.0.1.0.SKKINXM_20220218.0000.00_12.0_in_72ba40ab19.tgz'
+bash du*.sh 'https://sakura.rehan23.workers.dev/0:/501843CPH2251export_11_A.11_2021071714340000.zip'
