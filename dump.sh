@@ -13,4 +13,4 @@ git config --global color.ui false
 
 
 # dump now
-bash du*.sh 'https://sakura.rehan23.workers.dev/0:/Nokia_7.2_HMDSW_Nokia72-00WW-2_390_B01_QPST_%28by_firmwarefile.com%29.zip'
+bash du*.sh 'https://bigota.d.miui.com/V13.0.1.0.SKKINXM/haydn_in_global_images_V13.0.1.0.SKKINXM_20220218.0000.00_12.0_in_72ba40ab19.tgz'
