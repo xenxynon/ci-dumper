@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://bigota.d.miui.com/V12.0.23.0.RFQMIXM/laurel_sprout_global_images_V12.0.23.0.RFQMIXM_20220510.0000.00_11.0_65b078bd7b.tgz'
+bash du*.sh 'https://ava3.androidfilehost.com/dl/hrmG-mTuGz6yykz7hSQlTw/1654353739/17248734326145729084/Nokia_7.2_HMDSW_Nokia72-00WW-2_390_B01_QPST_%28by_firmwarefile.com%29.zip?'
