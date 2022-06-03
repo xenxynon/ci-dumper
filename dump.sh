@@ -11,5 +11,6 @@ git config --global user.email "flynryder427@gmail.com"
 git config --global user.name "xenxynon"
 git config --global color.ui false
 
+
 # dump now
 bash du*.sh 'https://sakura.rehan23.workers.dev/0:/Nokia_7.2_HMDSW_Nokia72-00WW-2_390_B01_QPST_%28by_firmwarefile.com%29.zip'
