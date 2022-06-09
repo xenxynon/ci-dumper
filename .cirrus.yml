@@ -11,9 +11,13 @@ task:
       cpu: 8
       memory: 32g
     
-    setup_script:
+    setup_dump:
+      - git clone https://github.com/XenStuff/phoenix_firmware_dumper 
+      - bash phoenix_firmware_dumper/setup.sh
+
+    setup_tools:
       - git clone https://github.com/ShivamKumarJha/android_tools 
       - bash android_tools/setup.sh
 
-    dump_script:
+    setup_final:
       - bash run.sh
