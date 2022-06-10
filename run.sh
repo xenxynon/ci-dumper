@@ -12,6 +12,7 @@ git config --global user.email "flynryder427@gmail.com"
 git config --global user.name "xenxynon"
 git config --global color.ui false
 
+
 # Run Tools
 cd android_tools
 export GIT_TOKEN=$(shell cat) $(shell pwd)/.github_token
