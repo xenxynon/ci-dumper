@@ -17,7 +17,6 @@ task:
 
     dump_script:
       - git clone https://github.com/ShivamKumarJha/android_tools 
-      - bash android_tools/setup.sh
 
     final_script:
       - bash run.sh
