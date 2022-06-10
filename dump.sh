@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://bigota.d.miui.com/V12.5.3.0.QFLCNXM/onclite_images_V12.5.3.0.QFLCNXM_20211104.0000.00_10.0_cn_cdca37a38b.tgz'
+bash du*.sh 'https://bigota.d.miui.com/V13.0.4.0.SJUMIXM/vayu_global_images_V13.0.4.0.SJUMIXM_20220413.0000.00_12.0_global_4e87d37955.tgz'
