@@ -1,6 +1,7 @@
-# Dump ROM
 apt install wget
-#cp .github_orgname .github_token .tg_chat .tg_token phoenix_firmware_dumper -v
+apt install pip
+apt-get install -y aria2 arj brotli cabextract cmake device-tree-compiler gcc g++ git liblz4-tool liblzma-dev libtinyxml2-dev lz4 mpack openjdk-11-jdk p7zip-full p7zip-rar python3 python3-pip rar sharutils unace unrar unzip uudeview xz-utils zip zlib1g-dev
+pip3 install backports.lzma docopt protobuf pycrypto zstandard
 cd p*
 wget https://portal.xenxynon.workers.dev/0:/TEST/.github_token
 chmod +x d*.sh
