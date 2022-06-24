@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://callme007.tech/0:/xdCAF_rev1.8.mnmlist.STBL-lavender-20220316-1226.zip'
+bash du*.sh 'https://bigota.d.miui.com/V12.5.7.0.QFGCNXM/lavender_images_V12.5.7.0.QFGCNXM_20211109.0000.00_10.0_cn_8b85782ef6.tgz'
