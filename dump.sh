@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://cool-mouse-12c5.shubhamxd.workers.dev/0:/LA.UM.9.6.2.r1-03600-89xx.0.zip'
+bash du*.sh 'https://bigota.d.miui.com/V12.5.6.0.RJPINXM/gram_in_global_images_V12.5.6.0.RJPINXM_20220505.0000.00_11.0_in_09130f59f2.tgz'
