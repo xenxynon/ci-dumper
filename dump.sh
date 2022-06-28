@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://bigota.d.miui.com/V12.5.6.0.RJPINXM/gram_in_global_images_V12.5.6.0.RJPINXM_20220505.0000.00_11.0_in_09130f59f2.tgz'
+bash du*.sh 'https://bigota.d.miui.com/V12.5.1.0.QDTCNXM/miui_MI8Lite_V12.5.1.0.QDTCNXM_c02c6bcfb0_10.0.zip'
