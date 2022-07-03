@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://bigota.d.miui.com/V13.0.7.0.RKEMIXM/fleur_global_images_V13.0.7.0.RKEMIXM_20220419.0000.00_11.0_global_79dd3bd4a6.tgz'
+bash du*.sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/Arcana-Ext-REBORN-6.1-lavender-COMMUNITY-PIXEL-20220616-1155.zip'
