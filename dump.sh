@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://sourceforge.net/projects/jabiyeff-build/files/BSP/LA.UM.9.6.3.r1-06200-89xx.0.zip/download'
+bash du*.sh 'https://callme007.tech/0:/LA.UM.9.6.3.r1-06200-89xx.0.zip'
