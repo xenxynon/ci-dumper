@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://callme007.tech/0:/LA.UM.9.6.3.r1-06200-89xx.0.zip'
+bash du*.sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/project-404-5.0-20220713-131337-SHINKA-GAPPS-lavender.zip'
