@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/project-404-5.0-20220713-131337-SHINKA-GAPPS-lavender.zip'
+bash du*.sh 'https://bigota.d.miui.com/V12.0.25.0.RFQMIXM/laurel_sprout_global_images_V12.0.25.0.RFQMIXM_20220708.0000.00_11.0_105dfaec4f.tgz'
