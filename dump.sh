@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://bigota.d.miui.com/V12.0.25.0.RFQMIXM/laurel_sprout_global_images_V12.0.25.0.RFQMIXM_20220708.0000.00_11.0_105dfaec4f.tgz'
+bash du*.sh 'https://ocs-dl.fra1.digitaloceanspaces.com/data/files/1657194672/Pixel4A-A13-Beta3-20220707122254.3-Violet.zip?response-content-disposition=attachment%3B%2520Pixel4A-A13-Beta3-20220707122254.3-Violet.zip&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20220727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T034934Z&X-Amz-SignedHeaders=host&X-Amz-Expires=60&X-Amz-Signature=f5c83aab455070a4340dee059e22df455b6ad48dae7a8f6c4482f450a8051cf8'
