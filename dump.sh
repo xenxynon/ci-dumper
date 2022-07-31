@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://dreamsofbang.moonithebang.workers.dev/0:/BanG/Pixel4A-A13-Beta3-20220707122254.3-Violet.zip'
+bash du*.sh 'https://bitch.sidgdrive.workers.dev/0:/project-404-5.0-20220728-194012-SHINKA-GAPPS-vayu.zip'
