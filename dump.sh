@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/AOSPA-sapphire-1-lavender-UNOFFICIAL-20220707.zip'
+bash du*.sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/riceDroid-12.1-2022072313-chime-v3.5-VANILLA.zip'
