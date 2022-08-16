@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/Devil_OnePlus8_update_10.zip'
+bash du*.sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/Pixel%20Hybrid%2013%20Beta%204%20July%20Lavender.zip'
