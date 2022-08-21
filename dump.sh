@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/project-404-5.0-20220802-133925-SHINKA-VANILLA-lavender.zip'
+bash du*.sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/riceDroid-12.1-2022082115-beryllium-v5.0-VANILLA.zip'
