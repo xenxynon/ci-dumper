@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/Arrow-v12.1-lavender-UNOFFICIAL-20220809-GAPPS.zip'
+bash du*.sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/FlamingoOS-v1.0-lavender-user-Official-Vanilla-20220816-0015-full.zip'
