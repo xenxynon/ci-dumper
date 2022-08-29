@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/GamingOs-10-lavender-23082022-NUBXD%28Private%20paid%20build%29-0603.zip'
+bash du*.sh 'https://e.shubhamxd.workers.dev/0:/SuperiorOS-TwelveL-lavender-UNOFFICIAL-20220827-0806.zip'
