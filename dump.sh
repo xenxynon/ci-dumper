@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://e.shubhamxd.workers.dev/0:/qassa-v2.1-lavender-20220828-1801-Vanilla.zip'
+bash du*.sh 'https://releases.grapheneos.org/raven-factory-2022083000.zip'
