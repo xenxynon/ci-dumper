@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://roms.cirrus-ci.workers.dev/0:/mojito/Kaleidoscope-sunflowerleaf-mojito-20220905-UNOFFICIAL.zip'
+bash du*sh 'https://github.com/Prashant-1695/cirrus-script/releases/download/Project-Kaleidoscope/Kaleidoscope-sunflowerleaf-lavender-20220730-UNOFFICIAL.zip'
