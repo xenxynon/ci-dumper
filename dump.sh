@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://github.com/Prashant-1695/cirrus-script/releases/download/Project-Kaleidoscope/Kaleidoscope-sunflowerleaf-lavender-20220730-UNOFFICIAL.zip'
+bash du*sh 'https://e.shubhamxd.workers.dev/0:/Arrow-v12.1-r5x-UNOFFICIAL-20220826-GAPPS.zip'
