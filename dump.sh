@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*.sh 'https://releases.grapheneos.org/raven-factory-2022083000.zip'
+bash du*.sh 'https://roms.cirrus-ci.workers.dev/0:/mojito/Kaleidoscope-sunflowerleaf-mojito-20220905-UNOFFICIAL.zip'
