@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://dreamsofbang.moonithebang.workers.dev/0:/BanG/G910N30b_00_COM_KR_OP_0419.kdz'
+bash du*sh 'https://roms.cirrus-ci.workers.dev/0:/lavender/PixelExperience-Lavender-Stable-12L-20220910-2226.zip'
