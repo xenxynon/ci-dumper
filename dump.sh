@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://roms.cirrus-ci.workers.dev/0:/lavender/PixelExperience-Lavender-Stable-12L-20220910-2226.zip'
+bash du*sh 'https://bigota.d.miui.com/V12.0.2.0.PEIMIXM/whyred_global_images_V12.0.2.0.PEIMIXM_20201224.0000.00_9.0_global_561698251e.tgz'
