@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://bigota.d.miui.com/V12.0.2.0.PEIMIXM/whyred_global_images_V12.0.2.0.PEIMIXM_20201224.0000.00_9.0_global_561698251e.tgz'
+bash du*sh 'https://dreamsofbang.moonithebang.workers.dev/0:/BanG/ProtonPlus-13.0-alpha-lavender-UNOFFICIAL-20220918-173208.zip'
