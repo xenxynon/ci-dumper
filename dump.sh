@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://go.shaktirmz.workers.dev/0:/Cherish-OS-v4.0-20220918-1915-beryllium-UNOFFICIAL-GApps.zip'
+bash du*sh 'https://dreamsofbang.moonithebang.workers.dev/0:/BanG/project-404-6.0-20220911-081538-Tokui-VANILLA-lavender.zip'
