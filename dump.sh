@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://get.mirror1.arrowos.net/download.php?token=4TtRz7FINmKELWnYBrVMCQUlwyfax8s0igvJ9ADbq631PhocpGOdSeXku2HZ&version=arrow-13.0&variant=official&device=vayu'
+bash du*sh 'https://dreamsofbang.moonithebang.workers.dev/0:/BanG/lineage-20.0-20221003-UNOFFICIAL-lavender.zip'
