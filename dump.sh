@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://dreamsofbang.moonithebang.workers.dev/0:/BanG/lineage-20.0-20221006-UNOFFICIAL-chime.zip'
+bash du*sh 'https://dreamsofbang.moonithebang.workers.dev/0:/BanG/project-404-6.0-20221007-082928-Tokui-GAPPS-vayu.zip'
