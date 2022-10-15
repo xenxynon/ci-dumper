@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://dreamsofbang.moonithebang.workers.dev/0:/BanG/Awaken-2.10-Stellar-lavender-UNOFFICIAL-Vanilla-0036-20220929.zip'
+bash du*sh 'https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.009.a2-8138be71.zip'
