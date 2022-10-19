@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/Arcana-Ext-REBORN-6.1-lavender-COMMUNITY-PIXEL-20220616-1155.zip'
+bash du*sh 'https://yanderelab.moonithebang.workers.dev/0:/BanG/Arrow-v12.1-lavender-UNOFFICIAL-20220902-GAPPS.zip'
