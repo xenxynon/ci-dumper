@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.009.a2-8138be71.zip'
+bash du*sh 'https://polished-disk-a3d6.shubhamxd.workers.dev/0:/Arcana-Ext-REBORN-6.1-lavender-COMMUNITY-PIXEL-20220616-1155.zip'
