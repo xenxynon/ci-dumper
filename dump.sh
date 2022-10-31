@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://yanderelab.moonithebang.workers.dev/0:/BanG/Arrow-v12.1-lavender-UNOFFICIAL-20220902-GAPPS.zip'
+bash du*sh 'https://td.trollmirarea.workers.dev/0:/TrollMirArea/ProtonPlus-13.0-Stable-lavender-UNOFFICIAL-20221006-162934.zip'
