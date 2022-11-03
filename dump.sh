@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://td.trollmirarea.workers.dev/0:/TrollMirArea/ProtonPlus-13.0-Stable-lavender-UNOFFICIAL-20221006-162934.zip'
+bash du*sh 'https://assorted.downloads.oppo.com/firmware/CPH2059/CPH2059PU_11_OTA_0530_all_GRgNaQ9ovrNe.ozip'
