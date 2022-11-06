@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://assorted.downloads.oppo.com/firmware/CPH2059/CPH2059PU_11_OTA_0530_all_GRgNaQ9ovrNe.ozip'
+bash du*sh 'https://td.trollgroup.workers.dev/0:/MirrorGroup/project-404-6.0-20221105-173836-tokui-Gapps-lavender.zip'
