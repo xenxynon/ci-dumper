@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://td.trollgroup.workers.dev/0:/MirrorGroup/project-404-6.0-20221105-173836-tokui-Gapps-lavender.zip'
+bash du*sh 'https://dl.google.com/dl/android/aosp/raven-ota-tp1a.221105.002-0508bbb1.zip'
