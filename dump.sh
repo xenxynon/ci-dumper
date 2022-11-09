@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://dl.google.com/dl/android/aosp/raven-ota-tp1a.221105.002-0508bbb1.zip'
+bash du*sh 'https://yanderelab.moonithebang.workers.dev/0:/BanG/ProtonPlus-13.1-Stable-lavender-UNOFFICIAL-20221108-121028.zip'
