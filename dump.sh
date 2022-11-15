@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://td.trollgroup.workers.dev/0:/MirrorGroup/ProtonPlus-13.1-Stable-lavender-UNOFFICIAL-20221108-171842.zip'
+bash du*sh 'https://yanderelab.moonithebang.workers.dev/0:/BanG/crDroidAndroid-12.1-20221013-lavender-v8.10.zip'
