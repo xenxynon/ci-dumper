@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://onepluscommunityserver.com/list/Unbrick_Tools/OnePlus_9_Pro/India_LE15DA/R/OnePlus_9_Pro_India_OxygenOS_11.2.4.4.zip'
+bash du*sh 'https://td.trollgroup.workers.dev/0:/MirrorGroup/aospa-topaz-unofficial-lavender-20221116.zip'
