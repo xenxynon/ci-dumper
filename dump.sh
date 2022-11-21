@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://td.trollgroup.workers.dev/0:/MirrorGroup/aospa-topaz-unofficial-lavender-20221116.zip'
+bash du*sh 'https://bot.itzan.workers.dev/0:/laurel_sprout_global_images_V12.0.26.0.RFQMIXM_20220808.0000.00_11.0_2292e2c0b1.tgz'
