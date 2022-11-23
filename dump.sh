@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://bot.itzan.workers.dev/0:/laurel_sprout_global_images_V12.0.26.0.RFQMIXM_20220808.0000.00_11.0_2292e2c0b1.tgz'
+bash du*sh 'https://bot.itzan.workers.dev/0:/aospa-topaz-unofficial-laurel_sprout-20221122.zip'
