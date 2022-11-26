@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://yanderelab.moonithebang.workers.dev/0:/BanG/Xtended-XT-v3-GAPPS-sweet-UNOFFICIAL-20221121-1529.zip'
+bash du*sh 'https://td.trollgroup.workers.dev/0:/MirrorGroup/TB_X505X_S001148_220902_ROW.zip'
