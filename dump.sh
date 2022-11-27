@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://td.trollgroup.workers.dev/0:/MirrorGroup/TB_X505X_S001148_220902_ROW.zip'
+bash du*sh 'https://temp.sh/SGnSW/xdroidOSS-13.0-10-lavender-27112022-1151.zip'
