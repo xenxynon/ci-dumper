@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://temp.sh/SGnSW/xdroidOSS-13.0-10-lavender-27112022-1151.zip'
+bash du*sh 'https://github.com/xenxynon/build-releases/releases/download/AwakenOS-13.0-14.11.2022/awaken-3.2-triton-lavender-unofficial-Gapps-1632-20221114.zip'
