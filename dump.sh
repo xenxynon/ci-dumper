@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://github.com/xenxynon/build-releases/releases/download/AwakenOS-13.0-14.11.2022/awaken-3.2-triton-lavender-unofficial-Gapps-1632-20221114.zip'
+bash du*sh 'https://portal.xenxynon.workers.dev/0:/GdriveXbot/Bliss-v16.1-chime-UNOFFICIAL-gapps-20221202.zip'
