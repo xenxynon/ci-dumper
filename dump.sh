@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://portal.xenxynon.workers.dev/0:/GdriveXbot/DerpFest-13-Official-Tango-munch-20221201-0835.zip'
+bash du*sh 'https://portal.xenxynon.workers.dev/0:/GdriveXbot/DerpFest-13-Official-Tango-begonia-20221128-1303.zip'
