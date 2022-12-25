@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://portal.xenxynon.workers.dev/0:/Gdrive_Xbot/awaken-3.3-triton-RMX3360-official-vanilla-1344-20221223.zip'
+bash du*sh 'https://portal.xenxynon.workers.dev/0:/Gdrive_Xbot/awaken-3.3-triton-beryllium-official-vanilla-1037-20221222.zip'
