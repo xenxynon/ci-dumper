@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://portal.xenxynon.workers.dev/0:/GdriveXbot/riceDroid-13.0-2022120420-lavender-v8.6-CORE-COMMUNITY.zip'
+bash du*sh 'https://portal.xenxynon.workers.dev/0:/Gdrive_Xbot/awaken-3.3-triton-RMX3360-official-vanilla-1344-20221223.zip'
