@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://portal.xenxynon.workers.dev/0:/Gdrive_Xbot/awaken-3.3-triton-beryllium-official-vanilla-1037-20221222.zip'
+bash du*sh 'https://bigota.d.miui.com/V13.0.9.0.SKBCNXM/miui_VENUS_V13.0.9.0.SKBCNXM_c32d21bf29_12.0.zip'
