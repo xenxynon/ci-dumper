@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://bigota.d.miui.com/V13.0.9.0.SKBCNXM/miui_VENUS_V13.0.9.0.SKBCNXM_c32d21bf29_12.0.zip'
+bash du*sh 'https://github.com/protonplus-org/ota/releases/download/13.04-Stable-beryllium-20230117/ProtonPlus-13.04-Stable-beryllium-OFFICIAL-20230117-181244.zip'
