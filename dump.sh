@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://github.com/protonplus-org/ota/releases/download/13.04-Stable-beryllium-20230117/ProtonPlus-13.04-Stable-beryllium-OFFICIAL-20230117-181244.zip'
+bash du*sh 'https://github.com/xenxynon/build-releases/releases/download/Awaken-25.01.2023/awaken-3.4-triton-lavender-unofficial-vanilla-1311-20230125.zip'
