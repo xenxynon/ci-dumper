@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://github.com/xenxynon/build-releases/releases/download/Awaken-25.01.2023/awaken-3.4-triton-lavender-unofficial-vanilla-1311-20230125.zip'
+bash du*sh 'https://bigota.d.miui.com/V12.5.8.0.RGGMIXM/miui_BEGONIAGlobal_V12.5.8.0.RGGMIXM_db66dbc998_11.0.zip1311-20230125.zip'
