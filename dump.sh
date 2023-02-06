@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://github.com/JustAnotherXenORG/errr/releases/download/proton/aospa-topaz-unofficial-lavender-20230201.zip'
+bash du*sh 'https://github.com/JustAnotherXenORG/errr/releases/download/proton/aospa-topaz-unofficial-lavender-20230202-014729.zip'
