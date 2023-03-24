@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://gauss-componentotacostmanual-sg.allawnofs.com/remove-6670096d284d7f89ae08a1e7af0cdbd8/component-ota/22/12/30/373dffe4c05f4264aed5f777ba3a0307.zip'
+bash du*sh 'https://github.com/xenxynon/build-releases/releases/download/AOSPA-07.03.23/aospa-topaz-beta-1-lavender-20230307-0952.zip5f4264aed5f777ba3a0307.zip'
