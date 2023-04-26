@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://edu.dipanshu.workers.dev/Mirrors/aospa-topaz-1-phone1-20230422-0743-image.zip'
+bash du*sh 'https://edu.dipanshu.workers.dev/Mirrors/xiaomi.eu_multi_MI11_V14.0.9.0.TKBCNXM_v14-13.zip'
