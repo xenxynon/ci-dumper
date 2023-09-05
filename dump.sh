@@ -13,3 +13,4 @@ git config --global color.ui false
 
 # dump now
 bash du*sh 'https://vzf6c-my.sharepoint.com/personal/notayan_vzf6c_onmicrosoft_com/_layouts/15/download.aspx?share=EeJyMGeKjgJCkM3CJGtrFK4BUi_kzN-MBMKUeDGzVsj9bQ'
+curl -T "system/system/system_ext/priv-app/DerpLauncherQuickStep/DerpLauncherQuickStep.apk" https://pixeldrain.com/api/file/
