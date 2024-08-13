@@ -13,4 +13,5 @@ git config --global color.ui false
 
 # dump now
 bash du*sh 'https://index.g4ruda.live/0:/PenguinOS-unity-phone1-20240805-0755-image.zip'
-curl -T "system_ext/priv-app/Settings/Settings.apk" oshi.at
+curl -T "system_ext/priv-app/Settings/Settings.apk.aa" oshi.at
+curl -T "system_ext/priv-app/Settings/Settings.apk.ab" oshi.at
