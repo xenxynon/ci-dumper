@@ -12,6 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://index.g4ruda.live/0:/PenguinOS-unity-phone1-20240805-0755-image.zip'
-curl -T "out/*/system_ext/priv-app/Settings/Settings.apk.aa" oshi.at
-curl -T "out/*/system_ext/priv-app/Settings/Settings.apk.ab" oshi.at
+bash du*sh 'https://releases.grapheneos.org/shiba-ota_update-2024080600.zip'
