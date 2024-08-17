@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://store1.gofile.io/download/web/8fce24f0-0aaf-4fe1-a0d1-a39e997eaa3f/flame-factory-2024080800.zip'
+bash du*sh 'https://github.com/XenStuff/S/releases/download/zips/flame-factory-2024080800.zip'
