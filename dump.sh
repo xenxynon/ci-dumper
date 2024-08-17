@@ -12,4 +12,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://releases.grapheneos.org/shiba-ota_update-2024080600.zip'
+bash du*sh 'https://releases.grapheneos.org/shiba-install-2024080600.zip'
