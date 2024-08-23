@@ -2,6 +2,10 @@
 apt install wget
 cd phx
 chmod +x d*.sh
+echo "${token}" > .tg_token
+echo "${token2}" > .github_token
+echo "TG_CHAT=-1001563297164" > .tg_chat
+echo "GH_ORG=XenStuff" > .github_orgname
 
 # git config
 git config --global user.email "flynryder427@gmail.com"

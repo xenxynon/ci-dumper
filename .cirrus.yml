@@ -4,7 +4,7 @@ env:
     CIRRUS_SHELL: bash
     token: ENCRYPTED[6cd774c881c8c8d7ac643d9fcb5f688fb5860a94e7df9f54a96a02fcbbbdad9b9f421865eae11c01a4ed0dccda378623]
     token2: ENCRYPTED[a3d66934dc5635c72fd70e0a5a65a4c926c8ff6e96a555885eea9deef88f2e806b20b7370c7c417116e014665f3ab98b]
-    
+
 task:
     name: dump
     timeout_in: 2h
@@ -15,10 +15,6 @@ task:
 
     setup_script:
       - git clone https://github.com/XenStuff/phoenix_firmware_dumper phx
-      - echo "${token}" > env/.tg_token
-      - echo "${token2}" > env/.github_token
-      - echo "TG_CHAT=-1001563297164" > env/.tg_chat
-      - echo "GH_ORG=XenStuff" > env/.github_orgname
       - bash phx/setup.sh
 
     dump_script:
