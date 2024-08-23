@@ -12,13 +12,12 @@ task:
       memory: 32g
 
     env_setup:
-      - mkdir -p env
+      - git clone https://github.com/XenStuff/phoenix_firmware_dumper phx
       - echo "TG_TOKEN=${{ secrets.TG_TOKEN }}" > env/.tg_token
       - echo "GH_TOKEN=${{ secrets.GH_TOKEN }}" > env/.github_token
-      - echo "TG_CHAT=-1001563297164" > env/ .tg_chat
-      - echo "GH_ORG=XenStuff" > env/.github_token
-      - git clone https://github.com/XenStuff/phoenix_firmware_dumper phx
+      - echo "TG_CHAT=-1001563297164" > env/.tg_chat
+      - echo "GH_ORG=XenStuff" > env/.github_orgname
       - bash phx/setup.sh
 
-      dump_script:
+    dump_script:
       - bash phx/dump.sh
