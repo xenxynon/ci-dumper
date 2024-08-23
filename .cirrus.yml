@@ -11,7 +11,7 @@ task:
       cpu: 8
       memory: 32g
 
-    env_setup:
+    setup_script:
       - git clone https://github.com/XenStuff/phoenix_firmware_dumper phx
       - echo "TG_TOKEN=${{ secrets.TG_TOKEN }}" > env/.tg_token
       - echo "GH_TOKEN=${{ secrets.GH_TOKEN }}" > env/.github_token
@@ -20,4 +20,4 @@ task:
       - bash phx/setup.sh
 
     dump_script:
-      - bash phx/dump.sh
+      - bash dump.sh
