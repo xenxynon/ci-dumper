@@ -15,8 +15,8 @@ task:
 
     setup_script:
       - git clone https://github.com/XenStuff/phoenix_firmware_dumper phx
-      - echo "TG_TOKEN=${token}" > env/.tg_token
-      - echo "GH_TOKEN=${token2}" > env/.github_token
+      - echo "${token}" > env/.tg_token
+      - echo "${token2}" > env/.github_token
       - echo "TG_CHAT=-1001563297164" > env/.tg_chat
       - echo "GH_ORG=XenStuff" > env/.github_orgname
       - bash phx/setup.sh
