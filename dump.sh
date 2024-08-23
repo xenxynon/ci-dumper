@@ -13,4 +13,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://index.g4ruda.live/0:/PenguinOS-unity-sweet-20240820-0936.zip'
+bash dumper.sh 'https://cdnorg.d.miui.com/V12.5.1.0.RGGMIXM/begonia_global_images_V12.5.1.0.RGGMIXM_20210629.0000.00_11.0_global_73e7592b66.tgz'
