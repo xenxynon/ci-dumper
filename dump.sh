@@ -1,9 +1,6 @@
-# example 
-# try again
+#some stuff
 apt install wget
-cp .github_orgname .github_token .tg_chat .tg_token phoenix_firmware_dumper -v
-cd p*
-wget https://gitlab.com/xenxynon/yaosp/-/raw/fourteen/.github_token
+cd phx
 chmod +x d*.sh
 
 # git config
@@ -12,4 +9,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash du*sh 'https://github.com/XenStuff/S/releases/download/zips/flame-factory-2024080800.zip'
+bash du*sh 'https://index.g4ruda.live/0:/PenguinOS-unity-sweet-20240820-0936.zip'
