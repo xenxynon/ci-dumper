@@ -13,4 +13,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash dumper.sh 'https://cdnorg.d.miui.com/V12.5.1.0.RGGMIXM/begonia_global_images_V12.5.1.0.RGGMIXM_20210629.0000.00_11.0_global_73e7592b66.tgz'
+bash dumper.sh 'https://cdnorg.d.miui.com/V14.0.6.0.TKSINXM/miui_CAMELLIAINGlobal_V14.0.6.0.TKSINXM_3afc727b18_13.0.zip'
