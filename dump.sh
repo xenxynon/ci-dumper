@@ -13,4 +13,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash dumper.sh 'https://cdnorg.d.miui.com/V14.0.6.0.TKSINXM/miui_CAMELLIAINGlobal_V14.0.6.0.TKSINXM_3afc727b18_13.0.zip'
+bash dumper.sh 'https://index.g4ruda.live/0:/camellia_in_global_images_V14.0.6.0.TKSINXM_20230922.0000.00_13.0_in_940393ef3c.tgz'
