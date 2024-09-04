@@ -13,4 +13,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash dumper.sh 'https://index.g4ruda.live/0:/xdCAF_rev1.8.mnmlist.STBL-lavender-20220316-1226.zip'
+bash dumper.sh 'https://mirror.codebucket.de/yaap/guacamole/YAAP-14-Urshanabi-guacamole-20240902.zip'
