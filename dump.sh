@@ -13,4 +13,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash dumper.sh 'https://github.com/xenxynon/build-releases/releases/download/penguin-v1.2/PenguinOS-unity-phone1-20240908-0459.zip'
+bash dumper.sh 'https://index.g4ruda.live/0:/Project_Infinity-X-1.5-Pong-20240911-0932-VANILLA-OFFICIAL.zip'
