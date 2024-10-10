@@ -13,4 +13,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash dumper.sh 'https://index.g4ruda.live/0:/DerpFest-12-Community-Shinju-lavender-20220411.zip'
+bash dumper.sh 'https://index.g4ruda.live/0:/RisingOS-5.2.1-EOL-CORE-UNOFFICIAL-sweet.zip'
