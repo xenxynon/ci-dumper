@@ -13,4 +13,4 @@ git config --global user.name "xenxynon"
 git config --global color.ui false
 
 # dump now
-bash dumper.sh 'https://index.g4ruda.live/0:/RisingOS-5.2.1-EOL-CORE-UNOFFICIAL-sweet.zip'
+bash dumper.sh 'https://index.g4ruda.live/0:/DerpFest-15-Community-Stable-Spacewar-20241022.zip'
