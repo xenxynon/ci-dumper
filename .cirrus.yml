@@ -14,7 +14,7 @@ task:
       memory: 32g
 
     setup_script:
-      - git clone https://github.com/XenStuff/phoenix_firmware_dumper phx
+      - git clone https://github.com/DumprX/DumprX phx
       - bash phx/setup.sh
 
     dump_script:
